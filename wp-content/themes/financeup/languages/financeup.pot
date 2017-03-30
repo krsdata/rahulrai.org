@@ -1,0 +1,444 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: financeup\n"
+"POT-Creation-Date: 2016-12-08 22:57+0530\n"
+"PO-Revision-Date: 2016-12-08 22:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\financeup-lite\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\financeup-lite\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/404.php:17
+msgid "404"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/404.php:32
+msgid "4"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/404.php:39
+msgid "Go Back"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/archive.php:49
+msgid "<i class=\"fa fa-angle-double-left\"></i>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/archive.php:50
+msgid "<i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/content.php:33
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/sections/home-blog.php:66
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/content.php:38
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/templates/fullwidth.php:35
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/functions.php:68
+msgid "Primary menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/functions.php:69
+msgid "Footer Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/functions.php:167
+msgid "Service section widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/functions.php:215
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/header.php:126
+msgid "Toggle Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/search.php:23
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/search.php:25
+msgid "Sorry, Do Not match."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/single.php:48
+msgid "By"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/financeup-custom-navwalker.php:193
+msgid "Add a menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_copyright.php:7
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_copyright.php:11
+msgid "Footer Copyright Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_copyright.php:20
+msgid "Copyright text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_copyright.php:28
+msgid "Social Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_copyright.php:38
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_copyright.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_copyright.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_copyright.php:90
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_copyright.php:111
+msgid "Open Link New tab/window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_copyright.php:58
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_copyright.php:78
+msgid "Linkedin URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_copyright.php:99
+msgid "Google-plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:7
+msgid "Header Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:13
+msgid "Header Widget One Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:20
+msgid "fa-map-marker"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:26
+msgid "One Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:33
+msgid "1240 Park Avenue"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:39
+msgid "One Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:51
+msgid "One Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:59
+msgid "Header Widget Two Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:71
+msgid "Two Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:83
+msgid "Two Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:95
+msgid "Two Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:103
+msgid "Header Widget Three Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:115
+msgid "Three Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:127
+msgid "Three Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:139
+msgid "Three Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:147
+msgid "Header Widget Four Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:159
+msgid "Four Label"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:171
+msgid "Four Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_header.php:183
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:235
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:274
+msgid "Open Link New window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:7
+msgid "Choose Post"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:15
+msgid "Homepage Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:25
+msgid "Slider Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:40
+msgid "Enable Slider Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:52
+msgid "Select Post One"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:65
+msgid "Select Post Two"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:78
+msgid "Select Post Three"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:92
+msgid "Service Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:105
+msgid "Enable Service Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:118
+msgid "Service Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:130
+msgid "Service Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:144
+msgid "Callout Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:157
+msgid "Enable Callout Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:170
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:313
+msgid "Choose Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:183
+msgid "Callout Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:196
+msgid "Callout Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:209
+msgid "Button One Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:222
+msgid "Button One URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:248
+msgid "Button Two Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:261
+msgid "Button Two URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:288
+msgid "News & Events Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:301
+msgid "Enable News Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:327
+msgid "Latest News Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_homepage.php:340
+msgid "Latest News Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:14
+msgid "https://themeansar.com/themes/financeup/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:14
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:21
+msgid "Themeansar Store"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:31
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:97
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:107
+msgid "Discover financeup Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:44
+msgid "https://wordpress.org/support/view/theme-reviews/financeup#postform/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:44
+msgid "Support Forum"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:68
+msgid "http://docs.themeansar.com/financeup-lite/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:68
+msgid "Online Documenation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:83
+msgid "https://themeansar.com/themes/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_pro.php:83
+msgid "Explore Our Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:9
+msgid "Theme Style Palette"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:14
+msgid "Set Your Header Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:23
+msgid "Enable/Disable Header Custom Color Feature"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:37
+msgid "Header Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:49
+msgid "Site Title Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:62
+msgid "Menu Bar Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:74
+msgid "Menu Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:86
+msgid "Menu Background Hover/Active Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:98
+msgid "Menu Border Bottom color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:110
+msgid "Menu Border Bottom Hover/Active color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:122
+msgid "Menu Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:134
+msgid "Menu Text Hover/Active Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:146
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:159
+msgid "Sub Menu Background Hover color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:171
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:178
+msgid "Set Your Footer Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:188
+msgid "Enable/Disable Footer Custom Color Feature"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:201
+msgid "Footer Background Color "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:213
+msgid "Footer Widget Heading Color "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:225
+msgid "Footer Text Color "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:237
+msgid "Footer Copyright Background Color "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/customize/ta_customize_theme_style.php:249
+msgid "Footer Copyright Text Color "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/widget/financeup-service.php:13
+msgid "financeup - Service Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/widget/financeup-service.php:14
+msgid "Service Section Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\financeup-lite/inc/ansar/widget/financeup-service.php:64
+msgid "Select Pages:"
+msgstr ""

